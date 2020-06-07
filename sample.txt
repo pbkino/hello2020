@@ -12,3 +12,6 @@ Develop2で修正しました
 add text
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Develop2で修正しました。
